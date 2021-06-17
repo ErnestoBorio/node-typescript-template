@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		"**/.DS_Store": true,
+		"node_modules": true
+	},
+	"editor.formatOnSave": true,
+	"prettier.configPath": ".prettierrc.json",
+	"editor.rulers": [100],
+	"workbench.colorCustomizations": {
+	  "editorRuler.foreground": "#2A2A2A"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.tabSize": 2,
+	"editor.insertSpaces": true
+}
